@@ -2,7 +2,7 @@
 
 *Codes_full.csv should not be used. Please refer to the user guide below*
 
-Each ethical code is stored in the database under a Markdown format (read here the main principles). 
+Each ethical code is stored in the database under a Markdown format. Documentation: https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Before updating a code, please update the file in the Github repository. There, you'll be able to visualize how it looks. 
 
