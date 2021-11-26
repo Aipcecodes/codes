@@ -48,7 +48,7 @@ It allows the Press Council to exercise its mission of self-regulation and infor
 
 ### 
 
-II. – Rights and duties of the press in general
+II. - Rights and duties of the press in general
 
 **Art. 3 From freedom of expression**
 
@@ -154,19 +154,19 @@ The law authorizes the Press Council to issue recommendations or guidelines to t
 
 **Ad Art. 5 Respect for others**
 
-S.5 a) “The press shall avoid and oppose any discrimination on grounds of sex, race, nationality, language, religion, ideology, ethnicity, culture, class or beliefs, while ensuring respect for human fundamentals of the human person. ”
+S.5 a) "The press shall avoid and oppose any discrimination on grounds of sex, race, nationality, language, religion, ideology, ethnicity, culture, class or beliefs, while ensuring respect for human fundamentals of the human person. "
 
-Directive – The press gives national or ethnic racial, religious a person when this is necessary for understand the facts or where there is a direct link to the information. (Adopted in plenary meeting of 28 March 2006
+Directive - The press gives national or ethnic racial, religious a person when this is necessary for understand the facts or where there is a direct link to the information. (Adopted in plenary meeting of 28 March 2006
 
 **Ad Art. 7 for obtaining information**
 
-S.7 a) “The press agrees to observe professional secrecy which implies the right to protect their sources of information, as defined in the law. She has the right to refuse disclose in the course of an administrative or judicial procedure information identifying a source. ”
+S.7 a) "The press agrees to observe professional secrecy which implies the right to protect their sources of information, as defined in the law. She has the right to refuse disclose in the course of an administrative or judicial procedure information identifying a source. "
 
-Directive – In case of search in a newspaper company or audiovisual making Following a commission or inquiry, the Chairman, or the lack of it a vice-presidents or his duly mandated to assist with the search mission to ensure that the provisions guaranteeing freedom of expression in the media are met. (Adopted in plenary meeting of 28 March 2006)
+Directive - In case of search in a newspaper company or audiovisual making Following a commission or inquiry, the Chairman, or the lack of it a vice-presidents or his duly mandated to assist with the search mission to ensure that the provisions guaranteeing freedom of expression in the media are met. (Adopted in plenary meeting of 28 March 2006)
 
-S.7 c) “Journalists and publishers agree to avoid working under anonymity or use of other illegal and reprehensible methods information, sounds, images or documents. They are committed to engage in the investigation on condition that when the extent of information and warrants that information can not be obtained otherwise.”
+S.7 c) "Journalists and publishers agree to avoid working under anonymity or use of other illegal and reprehensible methods information, sounds, images or documents. They are committed to engage in the investigation on condition that when the extent of information and warrants that information can not be obtained otherwise."
 
-Directive – In some cases journalists can use illegal methods to obtain the information they seek: false identity, microphones and cameras hidden inaccuracies in the intentions of the story, shadowing, infiltration. The use of such means must remain exceptional. Journalists will use them when the following conditions are met:
+Directive - In some cases journalists can use illegal methods to obtain the information they seek: false identity, microphones and cameras hidden inaccuracies in the intentions of the story, shadowing, infiltration. The use of such means must remain exceptional. Journalists will use them when the following conditions are met:
 
 \* The information sought is a public interest, for example in when it comes to updating socially reprehensible actions;
 
@@ -178,15 +178,15 @@ The public will be informed of the use of these means. (Adopted in plenary meeti
 
 **Ad Art. 9 From the picture, sound and audiovisual**
 
-**Art.9 d)** “The press is committed to prefer the representation of reality in its reconstitution by various devices. Reconstructions of events and housing scene can still be used in journalism to illustrate and support a report, subject to adequately identify and care not mislead the public.”
+**Art.9 d)** "The press is committed to prefer the representation of reality in its reconstitution by various devices. Reconstructions of events and housing scene can still be used in journalism to illustrate and support a report, subject to adequately identify and care not mislead the public."
 
-Directive – Before resorting to staging, journalists assess if it is the best or only way to understand the situation to the public. The public must be informed clearly that it is a reconstruction or a staging. The reconstruction will be limited to reproduce as faithfully as possible the facts, opinions, emotions surrounding the event recreated. When these stagings are designed to give the impression of an event spontaneous, journalists must inform the public of the nature of organized Event. (Adopted in plenary meeting of 28 March 2006)
+Directive - Before resorting to staging, journalists assess if it is the best or only way to understand the situation to the public. The public must be informed clearly that it is a reconstruction or a staging. The reconstruction will be limited to reproduce as faithfully as possible the facts, opinions, emotions surrounding the event recreated. When these stagings are designed to give the impression of an event spontaneous, journalists must inform the public of the nature of organized Event. (Adopted in plenary meeting of 28 March 2006)
 
 **Ad Art. 12 From the treatment of personal data**
 
-“The press is committed to respecting the right of access to personal information each individual, this especially in the case of personal data as defined in the law on data protection. The right of access to personal information shall not, however, never undermine the protection of journalistic sources.”
+"The press is committed to respecting the right of access to personal information each individual, this especially in the case of personal data as defined in the law on data protection. The right of access to personal information shall not, however, never undermine the protection of journalistic sources."
 
-Directive – It is given to the Complaints Commission of the Press Council’s mission deal with any complaints against a journalist or editor protection of data. Possible intervention of the National Commission for the Protection of data will only alternative in case the decision of theComplaints Commission does not give satisfaction to the applicant. In all cases, the right of access to information can be exercised in the presence of the Chairman of the Press Council or his representative. (Adopted in plenary meeting of 28 March 2006)
+Directive - It is given to the Complaints Commission of the Press Council’s mission deal with any complaints against a journalist or editor protection of data. Possible intervention of the National Commission for the Protection of data will only alternative in case the decision of theComplaints Commission does not give satisfaction to the applicant. In all cases, the right of access to information can be exercised in the presence of the Chairman of the Press Council or his representative. (Adopted in plenary meeting of 28 March 2006)
 
 The right of access to the data can never be the origin of data. He does not know either be done in order to compromise dissemination of a publication. (Adopted in plenary meeting of 28 March 2006)
 
@@ -194,15 +194,15 @@ The right of access to the data can never be the origin of data. He does not kno
 
 **Comments article by article**
 
-It is recalled that thereafter any reference to the law of 8 June 2004 on the freedom of expression in the media is designated by the terms “law” provided that there is no ambiguity.
+It is recalled that thereafter any reference to the law of 8 June 2004 on the freedom of expression in the media is designated by the terms "law" provided that there is no ambiguity.
 
 **Ad Preamble**
 
-Freedom of expression has its roots in all statements and conventions relating to human rights. This freedom must be exercised without restraint, without pressure and without censorship, is one of the essential pillars of any democratic society. Article 24 of the Luxembourg Constitution states: “Freedom to manifest opinions by word of any material, and freedom of the press guarantees, except for the punishment of offenses committed in the exercise of these freedoms. – Censorship can never be established.” The Preamble sets out the national and international legal standards Luxembourg for the existence of this Code of Ethics and conferring its normative force.
+Freedom of expression has its roots in all statements and conventions relating to human rights. This freedom must be exercised without restraint, without pressure and without censorship, is one of the essential pillars of any democratic society. Article 24 of the Luxembourg Constitution states: "Freedom to manifest opinions by word of any material, and freedom of the press guarantees, except for the punishment of offenses committed in the exercise of these freedoms. - Censorship can never be established." The Preamble sets out the national and international legal standards Luxembourg for the existence of this Code of Ethics and conferring its normative force.
 
 **Ad Art. 1 Scope**
 
-This is a prerequisite for the implementation of the Code of Ethics provided. The definition of a collaborator, editor and journalist is that of the law. “The employee is any person, journalist or not, who with or for account an editor involved in the collection, analysis, commentary and treatment Editorial information. The editor is any natural or legal person who, as principal or regular designs and structure a publication assumes editorship, decides to make available to the general public or categories of public through a medium and ordered to this end its propagation. The journalist is a person who engages principally paid work or exercises as a regular activity generating substantial income, it either as an employee or as an independent, with or on behalf of a editor and is in the collection, analysis, commentary and treatment Editorial information. Is treated as a journalist editor natural person who participates personally and regularly to their collection, analysis, commentary and the editorial processing of information.”
+This is a prerequisite for the implementation of the Code of Ethics provided. The definition of a collaborator, editor and journalist is that of the law. "The employee is any person, journalist or not, who with or for account an editor involved in the collection, analysis, commentary and treatment Editorial information. The editor is any natural or legal person who, as principal or regular designs and structure a publication assumes editorship, decides to make available to the general public or categories of public through a medium and ordered to this end its propagation. The journalist is a person who engages principally paid work or exercises as a regular activity generating substantial income, it either as an employee or as an independent, with or on behalf of a editor and is in the collection, analysis, commentary and treatment Editorial information. Is treated as a journalist editor natural person who participates personally and regularly to their collection, analysis, commentary and the editorial processing of information."
 
 **Ad Art. 2 Subject**
 
@@ -214,9 +214,9 @@ Section 6 of the Act establishes not only the right to information but also the 
 
 As an extension of the above freedoms, the right to information takes root in recognition of the legitimate interest of the public to be informed. It specifies the conditions for the exercise of a free press in a democratic society, and the prerogatives and responsibilities of those whose primary function is inform. The right to be informed includes the right of the media and journalists to seek and transmit information without hindrance or constraints, and the public’s right to access freely.
 
-For this purpose, it is necessary to recall the main principles set out in the Declaration Universal Declaration of Human Rights and the Convention of the Council of Europe. “All Everyone has the right to freedom of opinion and expression, which includes the right not to freedom to hold opinions without interference and to seek, receive and impart considerations impart information and ideas through any expression whatsoever. “(Article 19 of the Universal Declaration of Human Rights)
+For this purpose, it is necessary to recall the main principles set out in the Declaration Universal Declaration of Human Rights and the Convention of the Council of Europe. "All Everyone has the right to freedom of opinion and expression, which includes the right not to freedom to hold opinions without interference and to seek, receive and impart considerations impart information and ideas through any expression whatsoever. "(Article 19 of the Universal Declaration of Human Rights)
 
-“Everyone has the right to freedom of expression. This right includes freedom to hold opinions and freedom to receive and impart information and ideas there can be no interference by public authority and regardless of border. “(Article 10 of the Convention for the Protection of Human Rights and Fundamental Freedoms of the Council of Europe)
+"Everyone has the right to freedom of expression. This right includes freedom to hold opinions and freedom to receive and impart information and ideas there can be no interference by public authority and regardless of border. "(Article 10 of the Convention for the Protection of Human Rights and Fundamental Freedoms of the Council of Europe)
 
 **Ad Art. 4 From the accuracy and truthfulness**
 
@@ -226,7 +226,7 @@ b) Section 11 of the Act provides that any misrepresentation of fact contained i
 
 **Ad Art. 5 Respect for others**
 
-a) This article deals with direct discrimination. Remember about Article II-21 of the draft European Constitution Treaty says: “Is prohibited any discrimination based on sex, race, color, ethnic or social origin, genetic features, language, religion or belief, political or other opinion, membership of a national minority, property, birth, disability, age or sexual orientation. ”
+a) This article deals with direct discrimination. Remember about Article II-21 of the draft European Constitution Treaty says: "Is prohibited any discrimination based on sex, race, color, ethnic or social origin, genetic features, language, religion or belief, political or other opinion, membership of a national minority, property, birth, disability, age or sexual orientation. "
 
 There exist forms of communication, not directly incite discrimination or hatred, can help to create an atmosphere in public negative feelings towards a community. An example drawn from everyday practice is an indication of the color of skin a challenged whenever it is not white. It recommends that the press shows the racial, national or Ethnic a person when this information is necessary to understand the facts or where there is a direct link to the information. It is the same sex, language, culture, social class, disease, physical or mental disability or religious belief, political or ideological person.
 
@@ -240,13 +240,13 @@ When the press considers it appropriate to inform the public about legal issues 
 
 Outside the judicial context, the media and journalists should also be guided in the exercise of their professional responsibilities by the principle of respect the anonymity of youth, including security and development could be compromised. Thus, the press should refrain from giving details that allow the identification of young stigmatized, whether as victims, third innocent or because they live in serious personal difficulties. The law in Articles 18 and 19 on certain provisions of the protection of minors.
 
-e) The Universal Charter of Human Rights because of the presumption of innocence a fundamental right: “Everyone charged with a crime is presumed innocent until proved guilty according to law in a public trial at which all the guarantees necessary for his defense was insured. “The press adheres to this principle without restrictions. The law specifies the obligations of the media in the context of legal proceedings in Articles 12 and 13.
+e) The Universal Charter of Human Rights because of the presumption of innocence a fundamental right: "Everyone charged with a crime is presumed innocent until proved guilty according to law in a public trial at which all the guarantees necessary for his defense was insured. "The press adheres to this principle without restrictions. The law specifies the obligations of the media in the context of legal proceedings in Articles 12 and 13.
 
 However, sometimes the press of business taking place outside seize judicial proceedings, but within the public interest to know. In this case, the press provides with all the usual recautions to respect the presumption of innocence.
 
 In the absence of legal proceedings, the journalists will be cautious before revealing the identity of suspects, unless the suspicions are the result of a rigorous journalistic work to bring to light socially reprehensible acts.
 
-The distinction between legal and business procedures that take place outside the court to explain the wording: “… and avoid publicly present a person guilty of such facts before any official confirmation. “Instead of usual formulation “… before any final judgment.”
+The distinction between legal and business procedures that take place outside the court to explain the wording: "… and avoid publicly present a person guilty of such facts before any official confirmation. "Instead of usual formulation "… before any final judgment."
 
 f) The information provided in the media is in the public domain. One can therefore be refer, in reporting the substance or quoted. In terms of information, the work of other media can be useful to journalists. However, the fact that information is disseminated in media does not justify If another media copy or reproduce impunity without mentioning source or without the permission of the author. Not only legislation concerning copyright, neighboring rights and databases that disapproves but it is also a matter of professional ethics.
 
@@ -260,7 +260,7 @@ a) The law provides for the protection of sources in Article 7. However, some ca
 
 b) The press is committed to identifying individuals with sources information and inform, in any given situation, of its intention to communicate to the public the information gathered. This article is intended to alert the people unaccustomed to contact with the press. Individuals must be aware that they are testimonies to a journalist can find their impact to a wide audience.
 
-c) Some codes of conduct are limited to say the ban unfair use ie work under cover for information. If this rule is applicable in most of journalistic work, it can not however be absolute. The scandal of “Watergate,” to take one example most spectacular in the history of journalism, would never come to the public knowledge without the use of non-conventional methods. But in many cases, these practices are necessary for many other subjects such as investigations in the consumer interest (test-purchases, eg). The chosen article thus serves to educate the journalist not to abuse these methods, while leaving him the right to the range of methods when interest public demands. Press inform the public use of these means in accordance with the principle of protection of sources and taking into account the interest of the public to be informed the status of the species.
+c) Some codes of conduct are limited to say the ban unfair use ie work under cover for information. If this rule is applicable in most of journalistic work, it can not however be absolute. The scandal of "Watergate," to take one example most spectacular in the history of journalism, would never come to the public knowledge without the use of non-conventional methods. But in many cases, these practices are necessary for many other subjects such as investigations in the consumer interest (test-purchases, eg). The chosen article thus serves to educate the journalist not to abuse these methods, while leaving him the right to the range of methods when interest public demands. Press inform the public use of these means in accordance with the principle of protection of sources and taking into account the interest of the public to be informed the status of the species.
 
 **Ad Art. 8 In the reporting**
 
@@ -268,7 +268,7 @@ a) Generally, the rule adopted by this article is the principle of separation of
 
 However, it should be qualified. When the public can distinguish even within a single article, what are the facts on the one hand, and what opinions journalist and the other comments, the rule is supposed respected. In many cases, the formulation of a title, the use of an adjective is already the expression of an opinion, an evaluation of the journalist. Use these means to attract the attention of the public may be in conflict with the rule. And up to the journalist to be aware of.
 
-b) This provision is justified by the fact that more formal sources of companies bring news services providing media press “ready”. So the press is it called to be particularly vigilant to enable the public to distinguish between work journalistic and press others.
+b) This provision is justified by the fact that more formal sources of companies bring news services providing media press "ready". So the press is it called to be particularly vigilant to enable the public to distinguish between work journalistic and press others.
 
 c) Respect for the right of moral author implies that the name of the author or have a source of information is reproduced.
 
@@ -307,4 +307,3 @@ The law instructs the Press Council to ensure the publication of the Code of Eth
 This Code repeals and replaces the Code of Ethics adopted by the Assembly plenary of the Press Council of 4 December 1995.
 
 It shall enter into force on the day following its approval by the plenary of the Press Council. It is the same in the updated Code of Ethics. The Press Council recommends seeking the publication of the Code of Ethics in the collection C Memorial because of its importance and references made about him in the basic law. The role and scope of the Code of Conduct set out in particular the adoption the motion of May 13, 2004 by the Chamber of Deputies.
-
