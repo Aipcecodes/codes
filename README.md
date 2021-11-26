@@ -4,11 +4,9 @@
 
 Each ethical code is stored in the database under a Markdown format. Documentation: https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-Before updating a code, please update the file in the Github repository. There, you'll be able to visualize how it looks. 
+Before updating a code, please update the file in this Github repository. There, you'll be able to visualize how it looks. Don't forget to save each modification ("Commit" button). 
 
-Don't forget to save each modification ("Commit" button). 
-
-When satisfied with the result, click on the "Raw" button and copy the code. 
+When satisfied with the result, click on the "Raw" button. Select all the code and copy it.
 
 Update the code through the back office of the application (Update / Codes / Content-Markdown)
 
