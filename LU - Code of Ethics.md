@@ -28,7 +28,7 @@ Rights and Fundamental Freedoms signed in Rome on 4 November 1950 and approved b
 
 ### Part I.
 
-### Chapter I. – Scope and purpose of the Code of Ethics
+### Chapter I. Scope and purpose of the Code of Ethics
 
 **Art. 1 Scope**
 
@@ -46,7 +46,9 @@ The Code of Conduct sets the rules inherent in the exercise of freedom of expres
 
 It allows the Press Council to exercise its mission of self-regulation and information conferred upon it by law.
 
-### Chapter II. – Rights and duties of the press in general
+### 
+
+II. – Rights and duties of the press in general
 
 **Art. 3 From freedom of expression**
 
@@ -84,7 +86,7 @@ d) Journalists may not be compelled to engage in practices unethical and ethics 
 
 e) Journalists can not be forced to sign one of their contributions would have been substantially modified.
 
-### Chapter III. – Journalistic Practices
+### Chapter III. Journalistic Practices
 
 **Art. 7 for obtaining information**
 
@@ -130,7 +132,7 @@ d) Journalists and editors agree not to use their own benefit financial informat
 
 Press is committed to respecting the right of access to personal information each individual, this especially in the case of personal data as defined in the law on data protection. The right of access to personal information shall not, however, never undermine the protection of journalistic sources.
 
-### Chapter IV. – Miscellaneous Provisions
+### Chapter IV. Miscellaneous Provisions
 
 **Art. 13 Advertising Code of Ethics**
 
