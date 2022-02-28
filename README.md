@@ -11,3 +11,5 @@ When satisfied with the result, click on the "Raw" button. Select all the code a
 Update the code through the back office of the application (Update / Codes / Content-Markdown)
 
 The full documentation is available when logged in to the back office.
+
+In some cases, it wll be useful to convert markdown in HTML code : https://markdowntohtml.com/
