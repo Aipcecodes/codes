@@ -12,10 +12,10 @@ This Code is intended to be:
 
 (b) Easily understood by the public; and,
 
-(c) Effectively enforceable through IMPRESS €™s powers and remedies as a regulator.
+(c) Effectively enforceable through IMPRESS  powers and remedies as a regulator.
 
 
-Publishers will be held directly responsible for compliance with this Code, which applies to all content and newsgathering activities for which publishers are responsible under the terms of their Regulatory Scheme Agreement with IMPRESS, regardless of the medium or platform of publication. All references here to publishers apply equally to anyone acting under a publisher €™s authority. All references here to journalists apply equally to anyone acting in a journalistic capacity.
+Publishers will be held directly responsible for compliance with this Code, which applies to all content and newsgathering activities for which publishers are responsible under the terms of their Regulatory Scheme Agreement with IMPRESS, regardless of the medium or platform of publication. All references here to publishers apply equally to anyone acting under a publisher  authority. All references here to journalists apply equally to anyone acting in a journalistic capacity.
 
 This Code is distinct from the law and publishers are separately responsible for ensuring that they comply with the law.
 
@@ -88,11 +88,11 @@ The following provisions apply where a publisher is about to undertake an action
    
 **4. Discrimination**
 
-   1. Publishers must not make prejudicial or pejorative reference to a person on the basis of that person €™s age, disability, mental health, gender reassignment or identity, marital or civil partnership status, pregnancy, race, religion, sex or sexual orientation or another characteristic that makes that person vulnerable to discrimination.
+   1. Publishers must not make prejudicial or pejorative reference to a person on the basis of that person  age, disability, mental health, gender reassignment or identity, marital or civil partnership status, pregnancy, race, religion, sex or sexual orientation or another characteristic that makes that person vulnerable to discrimination.
 
-   2. Publishers must not refer to a person €™s disability, mental health, gender reassignment or identity, pregnancy, race, religion or sexual orientation unless this characteristic is relevant to the story.
+   2. Publishers must not refer to a person  disability, mental health, gender reassignment or identity, pregnancy, race, religion or sexual orientation unless this characteristic is relevant to the story.
 
-   3. Publishers must not incite hatred against any group on the basis of that group €™s age, disability, mental health, gender reassignment or identity, marital or civil partnership status, pregnancy, race, religion, sex or sexual orientation or another characteristic that makes that group vulnerable to discrimination.
+   3. Publishers must not incite hatred against any group on the basis of that group  age, disability, mental health, gender reassignment or identity, marital or civil partnership status, pregnancy, race, religion, sex or sexual orientation or another characteristic that makes that group vulnerable to discrimination.
 
    
 **5. Harassment**
@@ -121,7 +121,7 @@ The following provisions apply where a publisher is about to undertake an action
    
 **7. Privacy**
 
-1. Except where justified by the public interest, publishers must respect people €™s reasonable expectation of privacy. Such an expectation may be determined by factors that include, but are not limited to, the following:
+1. Except where justified by the public interest, publishers must respect people  reasonable expectation of privacy. Such an expectation may be determined by factors that include, but are not limited to, the following:
 
     1. The nature of the information concerned, such as whether it relates to intimate, family, health or medical matters or personal finances;
 
