@@ -1,7 +1,7 @@
 # CODE OF ETHICS FOR JOURNALISTS OF SLOVENIA
 
 ### Preamble
-*Arising from the freedom of expression and the right to public sector information as the fundamental human rights and freedoms guaranteed by the Constitution and international documents regarding the protection of human rights, and from the principles of the Munich Declaration, the journalists of Slovenia, joined together under the Slovene Association of Journalists and the Slovenian Union of Journalists, hereby adopt this Code. The Code contains ethical standards which serve as directives and obligations regarding the work of journalists and other content creators which is published in the Slovenian media, regardless of the work’s form of distribution. The compliance of individual actions with this Code is determined by the Journalists’ Ethics Council, a joint body of the Slovene Association of Journalists and the Slovenian Union of Journalists. The Code is amended and clarified as per the Recommendations of the Journalists’ Ethics Council (NČR).*
+*Arising from the freedom of expression and the right to public sector information as the fundamental human rights and freedoms guaranteed by the Constitution and international documents regarding the protection of human rights, and from the principles of the Munich Declaration, the journalists of Slovenia, joined together under the Slovene Association of Journalists and the Slovenian Union of Journalists, hereby adopt this Code. The Code contains ethical standards which serve as directives and obligations regarding the work of journalists and other content creators which is published in the Slovenian media, regardless of the work's form of distribution. The compliance of individual actions with this Code is determined by the Journalists' Ethics Council, a joint body of the Slovene Association of Journalists and the Slovenian Union of Journalists. The Code is amended and clarified as per the Recommendations of the Journalists' Ethics Council (NČR).*
 
 ### Journalistic work
 
@@ -27,11 +27,11 @@
 
 11. Plagiarism or forgery of documents is prohibited.
 
-12. \* A journalist must not use illicit means of collecting information. If the information which is of the utmost importance to the public cannot be obtained otherwise, the journalist’s actions as well as the reasons for them must be presented to the public.
+12. \* A journalist must not use illicit means of collecting information. If the information which is of the utmost importance to the public cannot be obtained otherwise, the journalist's actions as well as the reasons for them must be presented to the public.
 
-13. \* A journalist must always be introduced as a journalist and explain the purpose of the journalist’s collecting data. The status of a journalist can only be withheld if the journalist tried to obtain information that serves the public interest but could not obtain said information while declaring the journalist status.
+13. \* A journalist must always be introduced as a journalist and explain the purpose of the journalist's collecting data. The status of a journalist can only be withheld if the journalist tried to obtain information that serves the public interest but could not obtain said information while declaring the journalist status.
 
-14. \* A journalist can record audio or video, and take pictures only after the consent of the person being recorded or photographed has been given. The consent can also be tacit (e.g., if the person does not object). Under exceptional circumstances, a journalist can record and take pictures without consent if the journalist reasonably believes that, by doing so, the journalist shall uncover information that serves the public interest. The reasons for the journalist’s decision must be explained in the article.
+14. \* A journalist can record audio or video, and take pictures only after the consent of the person being recorded or photographed has been given. The consent can also be tacit (e.g., if the person does not object). Under exceptional circumstances, a journalist can record and take pictures without consent if the journalist reasonably believes that, by doing so, the journalist shall uncover information that serves the public interest. The reasons for the journalist's decision must be explained in the article.
 
 15. A journalist shall distinguish between information and commentary. The difference between a report on the facts and commentary must be sufficiently clear so that the addressee of the report can distinguish between the facts, and the views or opinions of the journalist.
 
@@ -45,11 +45,11 @@
 
 ###  General ethical standards
 
-17. \* A journalist shall respect the right of an individual to privacy and avoid sensational and unwarranted disclosure of the individual’s privacy in public. An intervention in the privacy of an individual is justifiable only if the public interest outweighs the respect for privacy. When reporting about public figures and those who want to gain power and influence, and draw attention, the right of the public to information is more extensive. A journalist should bear in mind that collecting and publishing the information, photographs, and recordings of the individuals can hurt those individuals who are not used to the attention of the media and the public.
+17. \* A journalist shall respect the right of an individual to privacy and avoid sensational and unwarranted disclosure of the individual's privacy in public. An intervention in the privacy of an individual is justifiable only if the public interest outweighs the respect for privacy. When reporting about public figures and those who want to gain power and influence, and draw attention, the right of the public to information is more extensive. A journalist should bear in mind that collecting and publishing the information, photographs, and recordings of the individuals can hurt those individuals who are not used to the attention of the media and the public.
 
     The journalist must be particularly considerate when mentioning names or publishing photographs and recordings of persons involved in accidents, and offenders or victims.
 
-18. A journalist shall take into account that no one is guilty until guilt has been proven by a competent authority’s decision. If the decision is not final, this shall be noted by the journalist.
+18. A journalist shall take into account that no one is guilty until guilt has been proven by a competent authority's decision. If the decision is not final, this shall be noted by the journalist.
 
 19. A journalist must show special consideration when publishing photographs or recordings, collecting information, and reporting about children and minors, persons with developmental, physical, and mental disabilities, and members of other vulnerable groups.
 
@@ -71,7 +71,7 @@
 
 26. In order for a journalist to avoid an actual or perceived conflict of interests, the journalist must refuse gifts, favours, rewards, and other benefits. The journalist shall avoid work outside of the journalist profession which would reduce his credibility or the credibility of the journalist community.
 
-27. A journalist shall not misuse the information on financial events obtained in the journalist’s professional work for personal interests. If the journalist trades securities about which he reports, the journalist shall disclose this information to the public.
+27. A journalist shall not misuse the information on financial events obtained in the journalist's professional work for personal interests. If the journalist trades securities about which he reports, the journalist shall disclose this information to the public.
 
     
 
@@ -79,6 +79,6 @@
 
 28. A journalist has the right to turn down a job that is in breach of this Code and the professional standards of the journalist profession.
 
-29. No one shall change the meaning or rewrite the article of a journalist without the journalist’s consent. A journalist has the right to sign articles written by the journalist. It is not possible to sign said articles without the journalist’s knowledge or against the journalist’s will.
+29. No one shall change the meaning or rewrite the article of a journalist without the journalist's consent. A journalist has the right to sign articles written by the journalist. It is not possible to sign said articles without the journalist's knowledge or against the journalist's will.
 
 \* When applying the exceptions permitted by Articles 12, 13, 14, and 17, and when interfering with the rights of others, a journalist must obtain the opinion of the editor-in-chief.
