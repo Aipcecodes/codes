@@ -1,4 +1,4 @@
-# MOLDOVAN JOURNALIST’s CODE of ETHICS
+# MOLDOVAN JOURNALIST's CODE of ETHICS
 
  **We, Journalists of Print, Broadcast and Online Media,**
 
@@ -6,9 +6,9 @@
 
 *Realizing that responsible journalism is the primary obligation of the profession that ensures the right of the public to receive truthful, verified and full information,* 
 
-*Realizing that society’s trust in journalists is a supreme value of the profession,*
+*Realizing that society's trust in journalists is a supreme value of the profession,*
 
-*Protecting professional honour and independence by strengthening self-regulation mechanisms in view of ensuring society’s right to receive information,* 
+*Protecting professional honour and independence by strengthening self-regulation mechanisms in view of ensuring society's right to receive information,* 
 
 *Considering the disinformation, fake news and manipulative messages disseminated through the media as harmful and dangerous phenomena for informing the public and for the democracy,* 
 
@@ -45,12 +45,12 @@
    5. While collecting information, the journalist should not abuse of his social status or of his professional opportunities, exert pressure on the sources, promise or offer them any compensations/favours.
    6. The journalist protects the identity of his sources in accordance with the provisions of the Law no.64/2010 on Freedom of Expression.
    7. The journalist doubts any information collected.
-   8. The journalist respects the information source’s wish to remain anonymous and at the same time assumes responsibility for the truthfulness of the information made public from anonymous sources.
+   8. The journalist respects the information source's wish to remain anonymous and at the same time assumes responsibility for the truthfulness of the information made public from anonymous sources.
    9. The journalist should obtain and present the opinion of all parties relevant to the subject. The journalist must prove the multitude of opinions, even though he disagrees with them.
    10. The journalist assigns quotes accurately. The quotes must be precise and, in case of partial quoting, the journalist is required not to distort the message of the person quoted.
    11. The journalist puts headlines that comply with the content of the journalistic material and avoids those that mislead the public.
    12. The journalist respects the copyright. The free taking over of journalistic materials takes place as established by the author or the media outlet. In such cases, the source and author of the information must be quoted and, for online media, the direct link to the source should also be indicated in the first paragraph of the text. An item can be taken over in full only in the conditions imposed, requested and provided by the rights bearer.
-   13. While collecting information about protests, strikes, manifestations, or social disorders, the journalist should not associate with the organizers or the participants. The journalist should be easy to identify – by a vest or nametag having the inscription ‘press’ or by other ways.
+   13. While collecting information about protests, strikes, manifestations, or social disorders, the journalist should not associate with the organizers or the participants. The journalist should be easy to identify – by a vest or nametag having the inscription ‘press' or by other ways.
    14. In practicing his profession, the journalist is not required to coordinate the final version of the journalistic item to be published with the sources who provided the information.
    15. If the journalist offers his journalistic product to more than one media outlet, he must notify the respective outlets about it.
 
@@ -71,7 +71,7 @@
        - date or time interval in which the survey took place and the method used;
        - size of the sample and maximum error margin;
        - beneficiary of the survey and the funding source.
-   24. In practicing his profession, the journalist should ensure a balance between the society’s right to receive public interest information and the right of the media to present opinions that may shock, offend or bother someone.
+   24. In practicing his profession, the journalist should ensure a balance between the society's right to receive public interest information and the right of the media to present opinions that may shock, offend or bother someone.
 
    **Commercial/Political Communication**
 
@@ -80,7 +80,7 @@
    27. The media outlet, in producing and/or broadcasting commercial publicity, items produced for publicity purposes, and political (electoral) publicity, is guided by the legal norms in force and by the provisions of this Code.
    28. The journalist is entitled to refuse the task of preparing publicity items of any type, as argument serving the fact that they are not the subject-matter of journalistic activities.
    29. Hidden publicity information, unmarked publicity information or the presentation of such information as a journalistic product is forbidden.
-   30. The journalist does not use his own name or image for publicity purposes, except when promoting either social and humanist values through media messages or journalistic products of one’s own.
+   30. The journalist does not use his own name or image for publicity purposes, except when promoting either social and humanist values through media messages or journalistic products of one's own.
 
    **Correction of Errors and the Right of Reply** 
 
@@ -102,7 +102,7 @@
 
    41. The journalist does not accept censorship of any type. The actions of editors or distributors of media products, when based on professional reasons, are not considered censorship.
    42. The journalist is entitled to refuse any professional task that contravenes the law, professional ethics, his own convictions or the norms of this Code.
-   43. The journalist does not accept to write for another person, to sign a journalistic product with another real person’s name, or to sign a journalistic product that is not his authorship.
+   43. The journalist does not accept to write for another person, to sign a journalistic product with another real person's name, or to sign a journalistic product that is not his authorship.
    44. The journalist cannot use the information he holds for personal interests.
 
 ### 3. Human Rights Protection
@@ -110,7 +110,7 @@
    **Privacy**
 
    1. The journalist is obliged to respect the right to privacy and dignity of persons, including of deceased persons.
-   2. Interfering with one’s privacy is allowed only when the disclosure of facts pursues a public interest.
+   2. Interfering with one's privacy is allowed only when the disclosure of facts pursues a public interest.
    3. The journalist reports about the private behavior of a public person who performs a public function without their consent only when such behavior affects their capacity of performing the public function or there is another well-grounded reason for offering such information to the society.
    4. The journalist reports about the private behavior of a private person only if such behavior disturbs public order or infringes the rights of other persons.
    5. The journalist does not provide to the public morbid details of crimes, accidents or natural disasters, or details of suicidal techniques. The same rules apply to visual items (photographs, videos).
@@ -129,12 +129,12 @@
    12. The journalist treats with special accuracy the information collected about crimes, natural disasters, accidents and other similar cases in which someone is harmed in any way, each time making sure that publishing such information shall not cause more suffering to those harmed or not guilty for what has happened.
    13. The journalist does not disclose the identity of victims of accidents, disasters, crimes, and especially of sexual assaults. Exception are the cases when they or their family (when the person is not capable to give their agreement) have agreed on it or when the public interest prevails. The journalist shall take all measures to reduce the eventual negative events on such persons.
    14. The journalist treats with special accuracy the information collected from persons in shock or from  helpless persons, making sure that the publishing of the information will not harm the rights of such persons, and shall try to anticipate the eventual negative effects on them.
-   15. The journalist does not take advantage of persons’ vulnerability or their lack of knowledge of their rights and freedoms, or encourage them to resort to humiliating actions and that harm human dignity.
+   15. The journalist does not take advantage of persons' vulnerability or their lack of knowledge of their rights and freedoms, or encourage them to resort to humiliating actions and that harm human dignity.
 
    **Protection of Children**
 
    16. The journalist treats with special accuracy the information collected about children, making sure that publishing such information will not have negative consequences (fear, suffering etc.) on them.
-   17. The journalist protects the identity of children involved in events with negative connotation (accidents, crimes, family conflicts, suicides, violence and any kind of abuse etc.), including as witnesses. Audio/video recordings and photographs must be changed in order to protect children’s identity. Exception are the situations in which the children’s identification is of public interest and those in which the journalist acts in the supreme interest of the child, with or without their parents’ or guardians’ agreement.
+   17. The journalist protects the identity of children involved in events with negative connotation (accidents, crimes, family conflicts, suicides, violence and any kind of abuse etc.), including as witnesses. Audio/video recordings and photographs must be changed in order to protect children's identity. Exception are the situations in which the children's identification is of public interest and those in which the journalist acts in the supreme interest of the child, with or without their parents' or guardians' agreement.
 
    **Tolerance and Non-Discrimination**
 
@@ -147,7 +147,7 @@
    2. The journalist informs the public if he has enjoyed any retribution outside the one offered by the editor or distributor of journalistic products with whom he is in work or creation relations.
    3. If a journalist participates in business trips, paid by third parties, he informs the public about it. In general, the journalist avoids participating in events or trips at the expense of the sources. He shall do it only if acquiring information is not possible otherwise.
    4. Journalists are not subjects of commercial publicity. The participation in charity actions must happen in such a way that the public knows if it is a personal involvement or editorial support.
-   5. The journalist’s professional work is incompatible with his work in administration structures of public authorities and of political organizations.
+   5. The journalist's professional work is incompatible with his work in administration structures of public authorities and of political organizations.
    6. Holders of positions in state power bodies who have contributions in the media must specify their official positions when signing items disseminated in the media.
    7. If registered as election candidate, the journalist does not perform his professional work during the election campaign.
    8. The journalist does not use any confidential information that he possesses by virtue of his profession in his personal interest or in the interest of persons close to him.
@@ -160,7 +160,7 @@
 
 ### 6. Mutual Obligations between the Journalist and the Employer
 
-   1. The employer may use a journalistic item based on a contract signed in written form with the item’s author. The use of the journalistic item in the absence of such a contract does not exempt the employer from the obligation to pay the respective remuneration to the author.
+   1. The employer may use a journalistic item based on a contract signed in written form with the item's author. The use of the journalistic item in the absence of such a contract does not exempt the employer from the obligation to pay the respective remuneration to the author.
    2. The journalist is entitled to renounce his capacity of author of a journalistic item and to refuse to sign it if the content of the item has undergone significant distortions during editing.
 
 ### 7. Self-Regulation
@@ -171,4 +171,4 @@
    4. This Code does not forbid journalists to guide themselves also by other professional ethics codes that may as well include other professional obligations.
    5. When issuing decisions on finding violations and/or when making recommendations, the Press Council guides itself by this Code and the journalistic good practices accepted at international level.
 
-*The Moldovan Journalist’s Code of Ethics was approved at the national conference held on 3 May 2011 in Chisinau and was completed in May 2019 after debates and public consultations held by the Press Council of Moldova.*
+*The Moldovan Journalist's Code of Ethics was approved at the national conference held on 3 May 2011 in Chisinau and was completed in May 2019 after debates and public consultations held by the Press Council of Moldova.*
