@@ -1,12 +1,12 @@
-# THE JOURNALIST’S CODE OF ETHICS
+# THE JOURNALIST'S CODE OF ETHICS
 
 ### PREAMBLE
 The Association for the Protection of Journalistic Ethics in the Slovak Republic
-- paying tribute to creators of the first Code of Ethics effective from 1990, the Slovak Syndicate of Journalists and the Slovak Press Publishers’ Association,
-- following the Journalist’s Code of Ethics effective from 2011,
+- paying tribute to creators of the first Code of Ethics effective from 1990, the Slovak Syndicate of Journalists and the Slovak Press Publishers' Association,
+- following the Journalist's Code of Ethics effective from 2011,
 - respecting changes in the media environment,
 - perceiving threat to moral and value standards of journalistic work,
-- respecting the importance of the ethical rules of journalistic work and the media environment in the Slovak Republic, accepts the Journalist’s Code of Ethics (“the Code of Ethics”) based on the agreement and consent of the Slovak Press Publishers’ Association, the Slovak Syndicate of Journalists and Interactive Advertising Bureau Slovakia (IAB Slovakia) (the representative of internet media) as an expression of binding the ethical standards for journalistic work.
+- respecting the importance of the ethical rules of journalistic work and the media environment in the Slovak Republic, accepts the Journalist's Code of Ethics (“the Code of Ethics”) based on the agreement and consent of the Slovak Press Publishers' Association, the Slovak Syndicate of Journalists and Interactive Advertising Bureau Slovakia (IAB Slovakia) (the representative of internet media) as an expression of binding the ethical standards for journalistic work.
 
 ### I. THE PURPOSE
 
@@ -16,9 +16,9 @@ b) to serve as the guidelines for natural persons and legal entities, such as re
 c) to inform the public about the ethical rules of journalistic work.
 2. Acceding to the Code of Ethics does not prevent media or editorial board from applying own ethical rules that do not contradict the Code of Ethics.
 
-### II. THE BASIC PRINCIPLES OF JOURNALIST’S WORK
+### II. THE BASIC PRINCIPLES OF JOURNALIST'S WORK
 
-1. Primary values of journalist’s work are values of personal freedom, justice and decency. In their work, they promote these values in society.
+1. Primary values of journalist's work are values of personal freedom, justice and decency. In their work, they promote these values in society.
 2. The main principles governing the journalist in his or her work are impartiality, balance, objectivity, honesty, truthfulness, accountability and consistent verification of facts.
 3. The journalist takes care that all of his or her public statements do not contradict the basic
 principles of journalism laid down in the paragraph 1 and 2 of this Article.
@@ -38,7 +38,7 @@ information.
 9. Advertisements and paid notifications must be clearly labelled. In the case of commercial text, the article must not give the impression that it is an independent work of the journalist. The journalist and media have a right and duty to refuse publishing a hidden advertisement.
 10. The journalist must not issue his or her old work as new.
 11. The journalist must not accept gifts or other benefits that can jeopardize his or her impartiality and objectivity that may be perceived as an attempt to influence his or her work. An exception to this rule is usually the provision of small advertising items and refreshments at press conferences and other events addressed to the public and media representatives.
-12. If someone other than the journalist, media or editorial board covers the costs of the journalist’s trips, other expenses or part of his or her expenses, the journalist alerts readers, listeners or viewers accordingly.
+12. If someone other than the journalist, media or editorial board covers the costs of the journalist's trips, other expenses or part of his or her expenses, the journalist alerts readers, listeners or viewers accordingly.
 13. The journalist has a right to personal integrity. If he or she finds himself or herself in a conflict of interest, especially when he or she is working on a topic that concerns or may concern the journalist himself or herself, his or her close persons (§ 116 of the Civil Code) or his or her economic interests, the journalist informs his or her editorial board about this fact. The journalist must not continue to work on the topic with conflict of interest unless the editorial board gives him permission to do so and the journalist informs adequately the public about the possible conflict of interest.
 14. If the editorial board finds itself in a conflict of interest, in particular when it informs about media activities or about persons connected directly or indirectly to media, the journalist informs the public about it in an appropriate manner. The journalist must not use the information he or she has gained during his or her work for own benefit as long it has not been published.
 15. The journalist does not use the privileges of his or her profession for his or her private benefit; the journalist does not show his or her journalistic license or indicate an affiliation with media in situations unrelated to the direct exercise of his or her profession.
@@ -49,7 +49,7 @@ information.
 
 1. The journalist must not publish the information or records about the privacy of an individual without the consent of the individual concerned, except in the case of a matter of public interest. The journalist must not lower the reputation, honour or dignity of the individual not even when publishing the information and records in relation to a public interest, except the case where the individual raises suspicion of unlawfully acting or causing offense by his or her actions.
 2. The journalist respects the presumption of innocence including persons suspected of committing a crime, accused of committing a crime or charged with a crime. The names of people suspected of criminal activity are disclosed only if releasing their names is an important public interest.
-3. The journalist does not directly or indirectly provoke any hatred, intolerance or discrimination based primarily on race, worldview, religion, ethnic origin, age, social status, gender or sexual orientation. The journalist informs about someone’s belonging to a minority only if the information is relevant in the context of the contribution.
+3. The journalist does not directly or indirectly provoke any hatred, intolerance or discrimination based primarily on race, worldview, religion, ethnic origin, age, social status, gender or sexual orientation. The journalist informs about someone's belonging to a minority only if the information is relevant in the context of the contribution.
 4. The journalist respects the basic principles of the democratic and legal state, the Constitutional Order of the Slovak Republic as well as the applicable Law and generally accepted moral principles.
 5. The journalist respects other states, nations, their traditions, culture, religion or other beliefs.
 6. The journalist does not directly or indirectly support violations of human rights, violence or environmental damage.
@@ -63,7 +63,7 @@ information.
 4. People who are not experienced in communication with journalists, are unaware of the consequences of their actions or find themselves in a particularly difficult life situation, especially victims or witnesses of crimes, accidents or other events that may cause to a person emotional stress, the journalist approaches them with increased sensitivity and responsibility.
 5. The journalist uses children and adolescents as a source of information only in exceptional cases with particular regard to their moral and emotional development.
 6. If it is not ruled out for communication of public interest issues, the journalist is obliged to protect the privacy and legitimate interests of the persons referred to in paragraphs 4 and 5 and the journalist must not misuse their trust.
-7. The journalist is not obliged to accede to a request from the respondent for additional correction, non-disclosure or non-broadcast of information obtained in accordance with this Code of Ethics as long the respondent has previously agreed to the disclosure. In justified cases, the journalist may accept an agreement on its subsequent authorization before the interview starts. If the respondent requests an authorization, the journalist is required to inform him or her that it is possible to edit only the respondent’s direct citations, and it is not possible to change meanings of the answers or remove the answers which have been mentioned in the original interview. The authorization of a record or text shall be limited solely to the statements made by the respondent himself or herself. The journalist shall not accept an agreement that would allow the respondent to agree to use his or her statement only in the context of the entire program or article.
+7. The journalist is not obliged to accede to a request from the respondent for additional correction, non-disclosure or non-broadcast of information obtained in accordance with this Code of Ethics as long the respondent has previously agreed to the disclosure. In justified cases, the journalist may accept an agreement on its subsequent authorization before the interview starts. If the respondent requests an authorization, the journalist is required to inform him or her that it is possible to edit only the respondent's direct citations, and it is not possible to change meanings of the answers or remove the answers which have been mentioned in the original interview. The authorization of a record or text shall be limited solely to the statements made by the respondent himself or herself. The journalist shall not accept an agreement that would allow the respondent to agree to use his or her statement only in the context of the entire program or article.
 8. Under the circumstances listed below, the journalist may also use exceptional means in his work. These are:
 a) using secret ways of collecting information, including a hidden camera or microphone,
 b) using concealed and confidential sources,
@@ -83,7 +83,7 @@ e) protection of the environment, cultural heritage or cultural monuments.
 ### VI. THE JOURNALIST AND THE EDITORIAL BOARD
 
 1. The journalist in the managing position actively supports compliance with this Code of Conduct.
-2. Editorial boards and journalists in the managing positions protect the journalist’s freedom of expression and, where appropriate, provide him or her with an adequate legal protection.
+2. Editorial boards and journalists in the managing positions protect the journalist's freedom of expression and, where appropriate, provide him or her with an adequate legal protection.
 3. The journalist must not be forced to do activities or make viewpoints that are against his or her convictions; for the exercise of this right, the other rights shall not be denied to the journalist.
 4. A post intended to be published which content has been edited by editorial board in such a way that its original meaning has changed; it may only be published with the consent of the author.
 5. Such consent is also required if the post is to be published under a brand name, pseudonym or anonymously.
@@ -92,8 +92,8 @@ e) protection of the environment, cultural heritage or cultural monuments.
 
 ### VII. THE JOURNALIST AND HIS OR HER COLLEAGUES
 
-1. The journalist must not publish someone’s else text, part of a text, photograph or other work or records as its own.
-2. If the journalist wants to publish the same or similar article in multiple media, he or she must alert all media. This also applies to cases where two journalists from two different media work on an interview together and they publish it in own media under own name without mentioning the colleague’s name.
+1. The journalist must not publish someone's else text, part of a text, photograph or other work or records as its own.
+2. If the journalist wants to publish the same or similar article in multiple media, he or she must alert all media. This also applies to cases where two journalists from two different media work on an interview together and they publish it in own media under own name without mentioning the colleague's name.
 3. The journalist has an obligation to discover and publish the unethical and unlawful actions of his or her colleagues.
 
 ### VIII. THE CENSORSHIP
