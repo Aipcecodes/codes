@@ -31,7 +31,7 @@
  7. When covering crime, court cases and accidents, the journalist shall consider whether the identification of the parties involved is necessary and what suffering it may cause to them. Victims and juvenile offenders shall not be identified as a general rule.
  8. Materials violating the privacy of an individual can only be disseminated if public interest outweighs the right to privacy.
  9. Care should be taken in the use of quotes, photographs, audio and video materials in a context different from the original. Editing likely to mislead, as well as distortion of sound shall be identified by a corresponding subtitle or announcement.
- 10. Photographs, captions, headlines, leads and broadcast lead-ins may not mislead the audience. The content, context and intended time of release of materials submitted by an outside contributor should not be altered without the authors knowledge and consent.
+ 10. Photographs, captions, headlines, leads and broadcast lead-ins may not mislead the audience. The content, context and intended time of release of materials submitted by an outside contributor should not be altered without the author's knowledge and consent.
 ## 5. Right of reply
  1. Individuals subjected to serious accusations should be offered an opportunity for immediate rebuttal in the same edition or programme.
  2. The objection should correct any factual errors and misquotations. The space/time taken up by the objection may not exceed the space/time for the offending statement. The objection shall be published immediately and prominently, without any editorial comment.
@@ -41,5 +41,3 @@
  2. Journalists and regular outside contributors should not air commercials within their programme, or write promotional articles under their own name in the same publication.
  3. A product or trademark shall be mentioned or displayed in news and other editorial material only if relevant and justified.
  4. In the case of consumer-oriented journalistic material, the audience must be informed how the selection of the products was made and how the products were tested.
-
- 
