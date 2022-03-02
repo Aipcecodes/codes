@@ -22,20 +22,20 @@ By adopting the principles of the Media Ethics Charter and the declaration of th
 
 ### II - Collection and processing of materials
 
-5. When collecting materials, illegal and ethically reprehensible methods must not be used; hidden cameras and microphones or telephone wiretapping are permissible only in the case of investigative journalism, i.e. tracking of crimes, corruption, or abuse of power, on behalf of the public good and with the knowledge and consent of the journalist’s superiors.
+5. When collecting materials, illegal and ethically reprehensible methods must not be used; hidden cameras and microphones or telephone wiretapping are permissible only in the case of investigative journalism, i.e. tracking of crimes, corruption, or abuse of power, on behalf of the public good and with the knowledge and consent of the journalist's superiors.
 
 6. The private and intimate sphere must not be violated; in justified circumstances, an exception can include activities in the field of investigative journalism, and also for public figures.
 
-7. A journalist is obliged to keep secret the source of their information, including the person and image of the informant if required by the informant with the reservation that the secret may be disclosed only to the journalist’s supervisor.
+7. A journalist is obliged to keep secret the source of their information, including the person and image of the informant if required by the informant with the reservation that the secret may be disclosed only to the journalist's supervisor.
 
 8. The elaboration or summary of information, interviews or opinions must not change their meaning and pronunciation; archival materials and reconstructions of events presented in electronic media should be appropriately marked.
 
 
-### III – Journalists’ interactions with interviewees and recipients of journalists’ work
+### III – Journalists' interactions with interviewees and recipients of journalists' work
 
 9. Interviewees should be informed about the use of their statements; permission is required from the interviewee if the interviewee restricts the use of their statements; children's statements may only be used with the consent of their parents or legal guardians.
 
-10. A journalist should show respect for people, regardless of their ideological, cultural, or moral differences which do not comply with the journalist’s own views.
+10. A journalist should show respect for people, regardless of their ideological, cultural, or moral differences which do not comply with the journalist's own views.
 
 11. Consideration must be exercised to not offend people with physical or mental disabilities, the old and the sick, and those who are helpless in life.
 
@@ -50,7 +50,7 @@ By adopting the principles of the Media Ethics Charter and the declaration of th
 
 15. When reporting on wars, riots and demonstrations, journalists should maintain an attitude of uninvolved observers, so as not to be manipulated.
 
-16. It is unacceptable to show scenes of death in close-up, and the bloody effects of wars and catastrophes; manifestations of cruelty and violence can be described and shown only on condition of maintaining a balance between the accuracy of the reporting and the sensitivity of the audience’s feelings, especially victims’ families and their relatives.
+16. It is unacceptable to show scenes of death in close-up, and the bloody effects of wars and catastrophes; manifestations of cruelty and violence can be described and shown only on condition of maintaining a balance between the accuracy of the reporting and the sensitivity of the audience's feelings, especially victims' families and their relatives.
 
 
 ### V - Conflicts of interest
