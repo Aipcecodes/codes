@@ -14,4 +14,10 @@ Update the code through the back office of the application (Update / Codes / Con
 
 The full documentation is available when logged in to the back office.
 
-In some cases, it wll be useful to convert markdown in HTML code : https://markdowntohtml.com/
+In some cases, it wll be useful to convert markdown in HTML code : https://markdowntohtml.com/ or https://parsedown.org/demo
+
+### Snippets
+
+Snippets and codes must match perfectly. A space is considered a character. Use simple straight quoted instead of curve or double quotes. No titles, no numbers, and no styled words (meaning no bold or italic).
+
+In any cases, pay attention to prevent invisible characters (BOM).
