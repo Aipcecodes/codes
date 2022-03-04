@@ -1,0 +1,156 @@
+"ID";"Level";"Parent";"Sub";"Name";"Infocard"
+"1";"Node1_03_01";"Node1_3";"n";"Anonymization";NULL
+"2";"Node1_03_02";"Node1_3";"n";"Decency";NULL
+"3";"Node1_03_03";"Node1_3";"n";"Definition of public person";NULL
+"4";"Node1_03_04";"Node1_3";"n";"Freedom of expression versus other human rights";NULL
+"5";"Node1_03_05";"Node1_3";"n";"Making accusations";NULL
+"6";"Node1_03_06";"Node1_3";"n";"People who passed away";NULL
+"7";"Node1_03_07";"Node1_3";"n";"Personal information";NULL
+"8";"Node1_03_08";"Node1_3";"n";"Pictures in non-public places";NULL
+"9";"Node1_03_09";"Node1_3";"n";"Pictures in public places";NULL
+"10";"Node1_03_10";"Node1_3";"n";"Principle of no harm";NULL
+"11";"Node1_03_11";"Node1_3";"n";"Privacy (and the public interest)";NULL
+"12";"Node1_03_12";"Node1_3";"n";"Protecting people's personal information";NULL
+"13";"Node1_03_13";"Node1_3";"n";"Protection of the good name of a person";NULL
+"14";"Node1_03_14";"Node1_3";"n";"Sensationalism";NULL
+"15";"Node1_05_01";"Node1_5";"n";"Collecting information in hospitals";NULL
+"16";"Node1_05_02";"Node1_5";"n";"Deceit and undercover methods";NULL
+"17";"Node1_05_03";"Node1_5";"n";"Gathering information in public space";NULL
+"18";"Node1_05_04";"Node1_5";"n";"Harassment of people by journalists";NULL
+"19";"Node1_05_05";"Node1_5";"n";"Making recordings";NULL
+"20";"Node1_05_06";"Node1_5";"n";"Payment of sources";NULL
+"21";"Node1_05_07";"Node1_5";"n";"Stating journalistic intention";NULL
+"22";"Node1_07_01";"Node1_7";"n";"Embargoes";NULL
+"23";"Node1_07_02";"Node1_7";"n";"Exclusivity contracts";NULL
+"24";"Node1_07_03";"Node1_7";"n";"Pre-publication review";NULL
+"25";"Node1_07_04";"Node1_7";"n";"Secrecy agreements";NULL
+"26";"Node1_07_05";"Node1_7";"n";"Addictions and substance abuse";NULL
+"27";"Node1_07_06";"Node1_7";"n";"Children";NULL
+"28";"Node1_07_07";"Node1_7";"n";"Health reporting";NULL
+"29";"Node1_17_01";"Node1_17";"n";"Juvenile criminals";NULL
+"37";"Node1_17_10";"Node1_17";"n";"Presumption of innocence";NULL
+"38";"Node1_17_11";"Node1_17";"n";"Reporting on Court and legal proceedings";NULL
+"39";"Node1_17_12";"Node1_17";"n";"Suspects and convicted people";NULL
+"40";"Node1_17_13";"Node1_17";"n";"Victims of crimes, accidents, or disasters";NULL
+"41";"Node1_17_14";"Node1_17";"n";"Reporting on politics";NULL
+"42";"Node1_17_15";"Node1_17";"n";"Reporting on suicide";NULL
+"43";"Node1_17_16";"Node1_17";"n";"Supernatural or paranormal phenomena";NULL
+"44";"Node1_17_18";"Node1_17";"n";"Violence and war";NULL
+"30";"Node1_17_02";"Node1_17";"n";"Offensive content";NULL
+"31";"Node1_17_03";"Node1_17";"n";"People unfamiliar with the press";NULL
+"32";"Node1_17_04";"Node1_17";"n";"People with intellectual disabilities";NULL
+"33";"Node1_17_06";"Node1_17";"n";"Reporting on crime";NULL
+"34";"Node1_17_07";"Node1_17";"n";"Family drama";NULL
+"35";"Node1_17_08";"Node1_17";"n";"Memoirs of criminals";NULL
+"36";"Node1_17_09";"Node1_17";"n";"Police and magistrates";NULL
+"45";"Node3_01_01";"Node3_1";"n";"Being accountable";NULL
+"46";"Node3_01_02";"Node3_1";"n";"Editors have the ultimate responsibility";NULL
+"47";"Node3_01_03";"Node3_1";"n";"Encourage debate around media ethics";NULL
+"48";"Node3_01_04";"Node3_1";"n";"Journalist has personal responsibility for information";NULL
+"49";"Node3_01_05";"Node3_1";"n";"Liability after publication";NULL
+"50";"Node3_01_06";"Node3_1";"n";"Media should have an own internal Code of Ethics";NULL
+"51";"Node3_01_07";"Node3_1";"n";"News agency (news agencies)";NULL
+"52";"Node3_01_08";"Node3_1";"n";"Responsible editor";NULL
+"53";"Node3_01_09";"Node3_1";"n";"Workings and procedures of the Media Council";NULL
+"54";"Node3_15_01";"Node3_15";"n";"Public interest is higher than all other considerations";NULL
+"55";"Node3_15_02";"Node3_15";"n";"Scrutinizing public affairs";NULL
+"56";"Node3_16_01";"Node3_16";"n";"Censorship";NULL
+"57";"Node3_16_02";"Node3_16";"n";"Encouraging and supporting citizen journalism";NULL
+"58";"Node3_16_03";"Node3_16";"n";"Free and independent journalism";NULL
+"59";"Node3_16_04";"Node3_16";"n";"Freedom of information";NULL
+"60";"Node3_16_05";"Node3_16";"n";"Freedom of press";NULL
+"61";"Node3_16_06";"Node3_16";"n";"Freedom of speech";NULL
+"62";"Node3_16_07";"Node3_16";"n";"Promote pluralism";NULL
+"63";"Node3_16_08";"Node3_16";"n";"Providing information";NULL
+"64";"Node3_17_01";"Node3_17";"n";"Defending and promoting democracy";NULL
+"65";"Node3_17_02";"Node3_17";"n";"Gender equality";NULL
+"66";"Node3_17_03";"Node3_17";"n";"Promoting justice";NULL
+"67";"Node3_17_04";"Node3_17";"n";"Protect right of individuals";NULL
+"68";"Node3_17_05";"Node3_17";"n";"Protection of human rights";NULL
+"69";"Node3_17_06";"Node3_17";"n";"Reject manifestations of state authoritarianism";NULL
+"70";"Node3_17_07";"Node3_17";"n";"Stand up for human values";NULL
+"72";"Node3_20_02";"Node3_20";"n";"Call out unethical behaviour of colleagues";NULL
+"73";"Node3_20_03";"Node3_20";"n";"Collecting information in ethical and legal manner";NULL
+"74";"Node3_20_04";"Node3_20";"n";"Dignity of journalism as a profession";NULL
+"75";"Node3_20_05";"Node3_20";"n";"Don\'t do harm to profession or media";NULL
+"76";"Node3_20_06";"Node3_20";"n";"Not support environmental damage";NULL
+"77";"Node3_20_07";"Node3_20";"n";"Not using journalism to settle private issues or vendettas";NULL
+"78";"Node3_20_08";"Node3_20";"n";"Respect the ethical standards";NULL
+"71";"Node3_20_01";"Node3_20";"n";"Being loyal to supervisors";NULL
+"79";"Node3_20_10";"Node3_20";"n";"Respect the rule of law";NULL
+"80";"Node3_20_11";"Node3_20";"n";"Solidarity with other journalists";NULL
+"81";"Node3_20_12";"Node3_20";"n";"Supporting colleagues in the media";NULL
+"82";"Node3_20_13";"Node3_20";"n";"Trust in the press";NULL
+"83";"Node4_02_01";"Node4_2";"n";"Disclosing potential conflicts of interest";NULL
+"84";"Node4_02_02";"Node4_2";"n";"Market information";NULL
+"85";"Node4_04_01";"Node4_4";"n";"Appearing in promotional material";NULL
+"86";"Node4_04_02";"Node4_4";"n";"Creating promotional publications or work as PR person";NULL
+"87";"Node4_04_03";"Node4_4";"n";"Guidelines for reviews of products";NULL
+"88";"Node4_04_04";"Node4_4";"n";"Naming products or trademarks";NULL
+"89";"Node4_04_05";"Node4_4";"n";"Native (hidden) advertising";NULL
+"90";"Node4_04_06";"Node4_4";"n";"Separation between editorial and commercial policy";NULL
+"91";"Node4_04_07";"Node4_4";"n";"Separation of paid and editorial content";NULL
+"92";"Node4_05_01";"Node4_5";"n";"Assisting police or security services";NULL
+"93";"Node4_05_02";"Node4_5";"n";"News blackouts";NULL
+"94";"Node4_05_03";"Node4_5";"n";"Political interests";NULL
+"95";"Node4_06_01";"Node4_6";"n";"Transparency regarding media ownership";NULL
+"96";"Node4_07_01";"Node4_7";"n";"Accepting gifts";NULL
+"97";"Node4_07_02";"Node4_7";"n";"Not associating with protesters, strikes, manifestations";NULL
+"98";"Node4_07_03";"Node4_7";"n";"Personal beliefs";NULL
+"99";"Node4_07_04";"Node4_7";"n";"Using job or job-related information for private benefits";NULL
+"100";"Node4_07_05";"Node4_7";"n";"Sponsored or reimbursed goods by third parties";NULL
+"101";"Node4_07_06";"Node4_7";"n";"Work outside journalism";NULL
+"102";"Node5_01_01";"Node5_1";"n";"Completeness (full information)";NULL
+"103";"Node5_01_02";"Node5_1";"n";"Correctness";NULL
+"104";"Node5_01_03";"Node5_1";"n";"Distortion of facts or forgery";NULL
+"105";"Node5_01_05";"Node5_1";"n";"Factual";NULL
+"106";"Node5_01_06";"Node5_1";"n";"Hearing all sides of a conflict";NULL
+"107";"Node5_01_07";"Node5_1";"n";"Objectivity";NULL
+"108";"Node5_01_08";"Node5_1";"n";"Opinion polls";NULL
+"109";"Node5_01_09";"Node5_1";"n";"Unfounded accusations or suspicions";NULL
+"110";"Node5_03_01";"Node5_3";"n";"Manipulation of audio material";NULL
+"111";"Node5_03_02";"Node5_3";"n";"Manipulation of visual material";NULL
+"112";"Node5_04_01";"Node5_4";"n";"Balance";NULL
+"113";"Node5_04_02";"Node5_4";"n";"Bias";NULL
+"114";"Node5_04_03";"Node5_4";"n";"Impartiality";NULL
+"115";"Node5_04_04";"Node5_4";"n";"Multiple viewpoints";NULL
+"116";"Node5_05_01";"Node5_5";"n";"Correction in archives";NULL
+"117";"Node5_05_02";"Node5_5";"n";"Corrections of errors online";NULL
+"118";"Node5_05_03";"Node5_5";"n";"Retractions, apologies, clarifications";NULL
+"119";"Node5_09_01";"Node5_9";"n";"Opinions should be based on facts";NULL
+"120";"Node5_09_02";"Node5_9";"n";"Publication of letters to the editor or opinions from the public";NULL
+"121";"Node5_09_03";"Node5_9";"n";"Separation between editorial and user-generated content";NULL
+"122";"Node5_09_04";"Node5_9";"n";"Separation between facts and opinions or analysis";NULL
+"123";"Node5_14_01";"Node5_14";"n";"Archive material";NULL
+"124";"Node5_14_02";"Node5_14";"n";"Indicate quotation begin and end";NULL
+"125";"Node5_14_03";"Node5_14";"n";"Plagiarism and copyright";NULL
+"126";"Node5_14_04";"Node5_14";"n";"Presenting old work as new";NULL
+"127";"Node5_14_05";"Node5_14";"n";"Use of quotes outside of original context";NULL
+"128";"Node5_14_06";"Node5_14";"n";"Use of visuals outside of original context";NULL
+"129";"Node5_20_01";"Node5_20";"n";"Truth";NULL
+"130";"Node5_20_02";"Node5_20";"n";"Use of quotes";NULL
+"131";"Node5_21_01";"Node5_21";"n";"Carefulness in selection of sources";NULL
+"132";"Node5_21_02";"Node5_21";"n";"Checking the reliability of sources";NULL
+"133";"Node5_21_03";"Node5_21";"n";"Checking the work of non-editorial staff (like freelancers)";NULL
+"134";"Node5_21_04";"Node5_21";"n";"Fact checking of news agency's content";NULL
+"135";"Node5_21_05";"Node5_21";"n";"Leaks";NULL
+"136";"Node5_21_06";"Node5_21";"n";"Naming the sources";NULL
+"137";"Node5_21_07";"Node5_21";"n";"Rumours and unconfirmed or unverified reports";NULL
+"138";"Node5_21_08";"Node5_21";"n";"Verified information";NULL
+"139";"Node6_04_01";"Node6_4";"n";"Media are NOT the public opinion";NULL
+"140";"Node6_10_01";"Node6_10";"n";"Condemn falsification of one\'s journalistic product";NULL
+"141";"Node6_10_02";"Node6_10";"n";"Not acting against one's convictions";NULL
+"142";"Node6_10_03";"Node6_10";"n";"Not acting against the principles of the Code of Ethics";NULL
+"143";"Node6_10_04";"Node6_10";"n";"Not be obliged to remove content that is not unlawful";NULL
+"144";"Node6_10_05";"Node6_10";"n";"Refuse assignments that violate laws and ethics";NULL
+"145";"Node6_10_06";"Node6_10";"n";"Refuse to be named as author";NULL
+"146";"Node6_10_07";"Node6_10";"n";"Refuse to prepare promotional materials";NULL
+"147";"Node6_10_08";"Node6_10";"n";"Refuse to produce content not in line with reality";NULL
+"148";"Node6_10_09";"Node6_10";"n";"Refuse to write for another person";NULL
+"149";"Node6_14_01";"Node6_14";"n";"Freelancers";NULL
+"150";"Node6_14_02";"Node6_14";"n";"Media outlets have obligation to pay their authors";NULL
+"151";"Node6_14_03";"Node6_14";"n";"Obligations of editors towards outside contributors";NULL
+"152";"Node6_14_04";"Node6_14";"n";"Professional training";NULL
+"153";"Node6_14_05";"Node6_14";"n";"Salary that guarantees economic independence";NULL
+"154";"Node6_14_06";"Node6_14";"n";"Security";NULL
+"155";"Node6_14_07";"Node6_14";"n";"Time and resources";NULL

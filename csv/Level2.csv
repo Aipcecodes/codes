@@ -1,0 +1,91 @@
+"ID";"Level";"Parent";"Sub";"Name";"Infocard"
+"1";"Node1_01";"Node1";"n";"Abuse of power";NULL
+"2";"Node1_02";"Node1";"n";"Confidentiality";NULL
+"3";"Node1_03";"Node1";"y";"Dignity";NULL
+"4";"Node1_04";"Node1";"n";"Discrimination and racism";NULL
+"5";"Node1_05";"Node1";"y";"Fairness in gathering information";NULL
+"6";"Node1_06";"Node1";"n";"Fairness towards interviewees";NULL
+"7";"Node1_07";"Node1";"y";"Honoring agreements";NULL
+"8";"Node1_08";"Node1";"n";"Interviewees are coauthor of publication";NULL
+"9";"Node1_09";"Node1";"n";"Journalists should not create events themselves";NULL
+"10";"Node1_10";"Node1";"n";"Letting source check their statements";NULL
+"11";"Node1_11";"Node1";"n";"Offering material to other media outlets for money";NULL
+"12";"Node1_13";"Node1";"n";"Right of reply";NULL
+"13";"Node1_14";"Node1";"n";"Stolen information";NULL
+"14";"Node1_17";"Node1";"y";"Vulnerable people and sensitive topics";NULL
+"15";"Node2_01";"Node2";"n";"Behaviour of editorial staff on social media";NULL
+"16";"Node2_02";"Node2";"n";"Bloggers and digital media are included in self-regulation";NULL
+"17";"Node2_03";"Node2";"n";"Forums aimed at children";NULL
+"18";"Node2_04";"Node2";"n";"Hyperlinks";NULL
+"19";"Node2_05";"Node2";"n";"Information from social media";NULL
+"20";"Node2_06";"Node2";"n";"Moderation of comments";NULL
+"21";"Node2_07";"Node2";"n";"Online comments";NULL
+"22";"Node2_08";"Node2";"n";"Separation between public and editorial content on website";NULL
+"23";"Node2_09";"Node2";"n";"Sharing content from third party via social media";NULL
+"24";"Node3_01";"Node3";"y";"Accountability";NULL
+"25";"Node3_02";"Node3";"n";"Being good colleagues";NULL
+"26";"Node3_03";"Node3";"n";"Duties of editorial board";NULL
+"27";"Node3_04";"Node3";"n";"Entertainment";NULL
+"28";"Node3_05";"Node3";"n";"Freedom WITHIN media";NULL
+"29";"Node3_06";"Node3";"n";"Helping people who are in danger";NULL
+"30";"Node3_07";"Node3";"n";"Integrity";NULL
+"31";"Node3_08";"Node3";"n";"Journalists must possess specialized knowledge and skills";NULL
+"32";"Node3_09";"Node3";"n";"Journalists must undergo professional training";NULL
+"33";"Node3_10";"Node3";"n";"Language";NULL
+"34";"Node3_11";"Node3";"n";"Media is responsible for user generated content";NULL
+"35";"Node3_12";"Node3";"n";"Media provide sufficient information to contact them";NULL
+"36";"Node3_13";"Node3";"n";"News blackouts";NULL
+"37";"Node3_14";"Node3";"n";"Obligations of the press";NULL
+"38";"Node3_15";"Node3";"y";"Observation of political and economic power";NULL
+"39";"Node3_16";"Node3";"y";"Protecting and promoting freedom of speech-press";NULL
+"40";"Node3_17";"Node3";"y";"Protecting democratic values and rights";NULL
+"41";"Node3_18";"Node3";"n";"Public interest";NULL
+"42";"Node3_19";"Node3";"o";"Transparency";NULL
+"43";"Node3_20";"Node3";"y";"Upholding the reputation of journalism";NULL
+"44";"Node4_01";"Node4";"n";"Accepting bribes";NULL
+"45";"Node4_02";"Node4";"y";"Conflicts of interest";NULL
+"46";"Node4_03";"Node4";"n";"Disclosing payment from other party than employer";NULL
+"47";"Node4_04";"Node4";"y";"Independence from commercial interests";NULL
+"48";"Node4_05";"Node4";"y";"Independence from government and politics";NULL
+"49";"Node4_06";"Node4";"y";"Independence from media owners";NULL
+"50";"Node4_07";"Node4";"y";"Independence regarding personal interests";NULL
+"51";"Node4_08";"Node4";"n";"Letting sources review content of upcoming publication";NULL
+"52";"Node4_09";"Node4";"n";"Press releases";NULL
+"53";"Node4_10";"Node4";"n";"Resisting pressures in general";NULL
+"54";"Node4_11";"Node4";"n";"Self-censorship";NULL
+"55";"Node4_12";"Node4";"n";"Trading information for benefits";NULL
+"56";"Node4_13";"Node4";"n";"Media independence in general";NULL
+"57";"Node5_01";"Node5";"n";"Accuracy";NULL
+"58";"Node5_02";"Node5";"n";"Advanced report";NULL
+"59";"Node5_03";"Node5";"y";"Audiovisual material";NULL
+"60";"Node5_04";"Node5";"y";"Balance and impartiality";NULL
+"61";"Node5_05";"Node5";"y";"Correction of errors by media";NULL
+"62";"Node5_07";"Node5";"n";"Headlines";NULL
+"63";"Node5_08";"Node5";"n";"Honesty";NULL
+"64";"Node5_09";"Node5";"y";"Opinions and op-eds";NULL
+"65";"Node5_10";"Node5";"n";"Providing context";NULL
+"66";"Node5_11";"Node5";"n";"Reality (correspondence to)";NULL
+"67";"Node5_12";"Node5";"n";"Re-enactments or staging";NULL
+"68";"Node5_13";"Node5";"n";"Reporting about research";NULL
+"69";"Node5_14";"Node5";"y";"Re-using material";NULL
+"70";"Node5_15";"Node5";"n";"Rigorous reasoning";NULL
+"71";"Node5_16";"Node5";"n";"Scrupulous";NULL
+"72";"Node5_17";"Node5";"n";"Thoughtfulness";NULL
+"73";"Node5_18";"Node5";"n";"Troll campaign";NULL
+"74";"Node5_19";"Node5";"n";"Trustworthiness";NULL
+"75";"Node5_20";"Node5";"y";"Truthfulness";NULL
+"76";"Node5_21";"Node5";"y";"Verification of information";NULL
+"77";"Node6_01";"Node6";"n";"Author is entitled to see article before publication";NULL
+"78";"Node6_02";"Node6";"n";"Authorship";NULL
+"79";"Node6_03";"Node6";"n";"Editors cannot change the substance of the production";NULL
+"80";"Node6_04";"Node6";"y";"Freedom of the press";NULL
+"81";"Node6_05";"Node6";"n";"Freedom to advocate and give own views";NULL
+"82";"Node6_06";"Node6";"n";"Informed about decisions in the media company";NULL
+"83";"Node6_07";"Node6";"n";"Labour rights of journalism";NULL
+"84";"Node6_08";"Node6";"n";"No obligation to disclose notes, drafts and records";NULL
+"85";"Node6_09";"Node6";"n";"Protecting secrets";NULL
+"86";"Node6_10";"Node6";"y";"Refusing unethical assignments";NULL
+"87";"Node6_11";"Node6";"n";"Selling story somewhere else after rejection";NULL
+"88";"Node6_12";"Node6";"n";"Support from media outlets for journalist";NULL
+"89";"Node6_13";"Node6";"n";"Support from professional organizations";NULL
+"90";"Node6_14";"Node6";"y";"Working conditions";NULL
