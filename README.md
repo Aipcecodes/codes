@@ -1,23 +1,13 @@
-## CSV updated on 2021-11-26
+## CSV updated on 2022-03-04
 
-*Codes_full.csv is the most accurate file. For updating from the markdown files, please refer to the user guide below*
+Each ethical code is stored in the database under a Markdown or a HTML format.
 
-Each ethical code is stored in the database under a Markdown format. Documentation: https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+The folder CSV contains the latests versions of the tables.
 
-Before updating a code, please update the file in this Github repository. There, you'll be able to visualize how it looks. Don't forget to save each modification ("Commit" button). 
+Tip for updating: double quotes must not be used, use simple quotes instead; use straight quotes instead of curly ones; separate each numbered line with a blank line; paragraph lines must not be broken (the highlight system used in front-end is JavaScript based and very sensitive). Any mofication has potential effects on the snippets: if they are not identical to the related ethical codes, the highlighting will not work.
 
-Caution: double quotes must not be used, use simple quotes instead; separate each numbered line with a blank line; paragraph lines must not be broken (the highlight system used in front-end is JavaScript based and very sensitive). Any mofication has potential effects on the snippets: if they are not identical to the related ethical codes, the highlighting will not work.
-
-When satisfied with the result, click on the "Raw" button. Select all the code and copy it.
-
-Update the code through the back office of the application (Update / Codes / Content-Markdown)
-
-The full documentation is available when logged in to the back office.
-
-In some cases, it wll be useful to convert markdown in HTML code : https://markdowntohtml.com/ or https://parsedown.org/demo
+Websites to convert markdown to HTML code : https://markdowntohtml.com/ or https://parsedown.org/demo
 
 ### Snippets
 
-Snippets and codes must match perfectly. A space is considered a character. Use simple straight quoted instead of curve or double quotes. No titles, no numbers, and no styled words (meaning no bold or italic).
-
-In any cases, pay attention to prevent invisible characters (BOM).
+Snippets and codes must match perfectly. A space is considered a character. Use simple straight quoted instead of curly or double quotes. No titles, no numbers, and no styled words (meaning no bold or italic). In any cases, pay attention to prevent invisible characters (BOM).
